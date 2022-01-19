@@ -1,12 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
- *
- * @author  Madhurya & Bhaskar 
+ * GNU General Public License v3.0
+ * @author  Madhurya Dutta & Bhaskar Jyoti Das
  
  */
 import java.applet.*;
@@ -45,6 +39,6 @@ public class hello extends Applet {
             g.drawString(" X ", 1200, 200);
             g.drawString(" Y ", 1250, 250);
             g.drawString(" Z ", 1300, 300);
-            g.drawString(" Create & Copyright By Madhurya & Bhaskar ", 500, 500);
+            g.drawString(" Create By Madhurya & Bhaskar ", 500, 500);
         }
 }
